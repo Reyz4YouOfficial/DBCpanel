@@ -3,7 +3,7 @@
     "username": "Reyz4You",
     "password": "Dev",
     "role": "Owner Server",
-    "image": "https://files.catbox.moe/b0zzbm.jpg"
+    "image": "https://files.catbox.moe/5wdm9y.jpg"
   },
   {
     "username": "dee4youu",
@@ -16,5 +16,11 @@
     "password": "1N",
     "role": "Staf Vps",
     "image": "https://files.catbox.moe/g908g8.jpg"
+  }, 
+    {
+    "username": "katz",
+    "password": "katz12",
+    "role": "Staf Vps",
+    "image": "https://files.catbox.moe/hq914d.jpg"
   }
 ]
